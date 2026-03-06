@@ -1,16 +1,40 @@
-## Hi there 👋
+Hi, I'm Thanmaya D👋
 
-<!--
-**thanmaya-tech/thanmaya-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Science & Engineering Student
+💻 Aspiring Software Developer
+🌱 Passionate about Web Development and Artificial Intelligence
 
-Here are some ideas to get you started:
+🛠 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* HTML
+* CSS
+* JavaScript
+* Git
+* GitHub
+
+Currently Learning
+
+- Web Development
+- Artificial Intelligence
+
+🚀 Projects
+
+Calculator App
+Simple calculator built using HTML, CSS and JavaScript.
+
+To-Do List App
+A task management web app where users can add, complete and delete tasks.
+
+Portfolio Website
+Personal website showcasing my skills and projects.
+
+🎯 Goals
+
+* Improve JavaScript skills
+* Learn React and modern web development
+* Build real-world projects
+
+Connect with me
+
+📧 Email: dthanmaya5@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/thanmaya-d
