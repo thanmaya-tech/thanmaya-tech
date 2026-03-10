@@ -6,11 +6,11 @@ Hi, I'm Thanmaya D👋
 
 🛠 Skills
 
+* Python
 * HTML
 * CSS
 * JavaScript
-* Git
-* GitHub
+* Git & GitHub
 
 Currently Learning
 
