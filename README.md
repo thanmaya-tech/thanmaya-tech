@@ -1,7 +1,7 @@
 Hi, I'm Thanmaya D👋
 
 🎓 Information Science & Engineering Student
-💻 Aspiring Software Developer
+💻 Aspiring Full Stack Developer
 🌱 Passionate about Web Development and Artificial Intelligence
 
 🛠 Skills
