@@ -1,40 +1,44 @@
-Hi, I'm Thanmaya D👋
+ Hi, I'm Thanmaya D 👋
 
-🎓 Information Science & Engineering Student
-💻 Aspiring Full Stack Developer
-🌱 Passionate about Web Development and Artificial Intelligence
+🎓 Information Science & Engineering Student  
+💻 Full Stack Developer | AI Enthusiast  
+🚀 Passionate about building real-world web applications  
 
-🛠 Skills
+---
 
-* Python
-* HTML
-* CSS
-* JavaScript
-* Git & GitHub
+ 🛠️ Tech Stack
+- Frontend: HTML, CSS, JavaScript  
+- Backend: (Add Node.js when you learn)  
+- Programming: Python  
+- Tools: Git, GitHub  
 
-Currently Learning
+---
 
-- Web Development
-- Artificial Intelligence
+ 📚 Currently Learning
+- Full Stack Web Development  
+- Artificial Intelligence  
 
-🚀 Projects
+---
+ 🚀 Projects
 
-Calculator App
-Simple calculator built using HTML, CSS and JavaScript.
+ 🔹 Calculator App  
+A simple calculator built using HTML, CSS, and JavaScript.  
+👉 Performs basic arithmetic operations with a clean UI  
 
-To-Do List App
-A task management web app where users can add, complete and delete tasks.
+---
 
-Portfolio Website
-Personal website showcasing my skills and projects.
+ 🔹 To-Do List App  
+A task management web app where users can add, complete, and delete tasks.  
+👉 Helps improve productivity and task tracking  
 
-🎯 Goals
+---
 
-* Improve JavaScript skills
-* Learn React and modern web development
-* Build real-world projects
+ 🔹 Portfolio Website  
+A personal website showcasing my skills and projects.  
+👉 Built to create a strong online presence  
 
-Connect with me
+---
 
-📧 Email: dthanmaya5@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/thanmaya-d
+ 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/thanmaya-d-8777542a2/
+- GitHub: https://github.com/thanmaya-tech
